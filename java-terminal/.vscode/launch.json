@@ -18,7 +18,11 @@
             "mainClass": "AboutMe",
             "projectName": "java-terminal_12c7219c",
             "args": [
+<<<<<<< HEAD
                 "Wallace",
+=======
+                "wallace",
+>>>>>>> origin/main
                 "Miller",
                 "32",
                 "1.71"
